@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 *Annotated*
 
+notebooks/2020
+homework/2020
+
 # C extensions
 *.so
 
