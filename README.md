@@ -27,7 +27,10 @@ Note: The syllabus is aspirational and is likely to be adjusted over the semeste
 ### Office hours 
 
 - Cliburn: TBD
+- Jiawei Chen TBD
+- Bo Liu TBD
 
+Office hours: TBD
 ### Grading
 
 - Homework 40%
