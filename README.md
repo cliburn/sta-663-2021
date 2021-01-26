@@ -26,9 +26,9 @@ Note: The syllabus is aspirational and is likely to be adjusted over the semeste
 
 ### Office hours 
 
-- Cliburn: TBD
-- Jiawei Chen TBD
-- Bo Liu TBD
+- Cliburn: 8-10 PM MON (Scheduled upon request)
+- Jiawei Chen 8-10 PM FRI
+- Bo Liu 8-10 PM WED
 
 Office hours: TBD
 ### Grading
