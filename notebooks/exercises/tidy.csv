@@ -1,0 +1,17 @@
+name,age,site,gene,expression
+a,23,duke,desc,a-23-duke
+a,23,duke,1,11.2
+a,23,duke,2,12.3
+a,23,duke,3,13.4
+b,34,unc,desc,b-34-unc
+b,34,unc,1,10.7
+b,34,unc,2,13.4
+b,34,unc,3,9.8
+c,44,duke,desc,c-44-duke
+c,44,duke,1,9.0
+c,44,duke,2,9.9
+c,44,duke,3,14.2
+d,42,unc,desc,d-42-unc
+d,42,unc,1,11.6
+d,42,unc,2,10.7
+d,42,unc,3,8.9
