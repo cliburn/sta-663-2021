@@ -41,9 +41,17 @@ Office hours: TBD
 ### Point range for letter grade
 
 - A 94 - 100
+    - A+ 98-100
+    - A  96-97
+    - A- 94-95
 - B 85 - 93
+    - B+ 91-93
+    - B  88-90
+    - B- 85-87
 - C 70 - 84
 - D Below 70
+
+All grades will be rounded up for final grade.
 
 ### Unit 1: Develop fluency in Python for scientific computing
 
@@ -296,3 +304,7 @@ Office hours: TBD
 - Bayesian neural networks
 - Variational inference with `tfp`
 - Monte Carlo dropout
+
+```python
+
+```
